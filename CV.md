@@ -1,3 +1,4 @@
 #Hello
 
-It's text in branch 1
+
+It's branch 2 and master
